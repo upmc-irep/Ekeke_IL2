@@ -1,6 +1,6 @@
 # Murthy IL2 dataset and scripts
 
-This repository contains the processed dataset from the paper: "Intrapleural IL-2 Expressing Oncolytic Virotherapy Mediates Superior Antitumor Efficacy and T Cell Receptor Diversity in Malignant Pleural Disease" by Murthy, et al.
+This repository contains the processed dataset from the paper: "Intrapleural IL-2 Expressing Oncolytic Virotherapy Mediates Superior Antitumor Efficacy and T Cell Receptor Diversity in Malignant Pleural Disease" by Ekeke, et al.
 
 ## Sample naming 
 
